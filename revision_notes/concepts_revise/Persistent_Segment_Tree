@@ -1,0 +1,3 @@
+It is a variation of Segment tree,which stores elemnts in the given range in sorted form,and also their prefix values
+checkout the problem 
+https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/
