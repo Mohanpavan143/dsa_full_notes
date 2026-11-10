@@ -7,6 +7,8 @@ advantages:
 3.)faster execution
 4.)Scalability
 Concurrency:
+
+
 Multiple tasks progressing over time, but not neccessarily at the exact time
 9 tasks 8 cores ,concurrent
 Parallellism:
